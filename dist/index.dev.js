@@ -119,10 +119,4 @@ function gameOver() {
   });
 }
 
-; //-----------tabla de puntajes--------------------//
-// hacer prompt() que pregunte nombre, guardar ese nombre en una variable , usar variable en tabla de nombres.-
-//en la tabla de puntos habra un lugar para(variable)el score final. usar database.
-
-/* let user = prompt("Nombre del Jugador");
-alert("El Juego iniciara");
- */
+;
