@@ -4,7 +4,7 @@ let palabraAleatoria = document.querySelector("#randomWord");
 let palabraIngresada  = document.getElementById("text");
 let time = 20;
 let tiempo = document.querySelector("#timeSpan");
-let score = 0  ;
+let score = 0;
 let puntaje = document.querySelector("#score");
 let fin = document.querySelector("#end-game-container");
 
